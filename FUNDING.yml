@@ -1,0 +1,4 @@
+# 在仓库右上角显示 Sponsor 按钮，点击直接跳转
+# custom 最多 4 条，必须是 https 链接
+
+custom: ["https://mbd.pub/o/author-bW2ZnGtkZQ==/work"]
