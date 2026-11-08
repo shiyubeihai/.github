@@ -1,0 +1,2 @@
+# .github
+Funding &amp; Support
